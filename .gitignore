@@ -1,0 +1,23 @@
+# Папки виртуального окружения
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы PyInstaller
+dist/
+build/
+*.spec
+
+# Пользовательские макросы (не должны быть частью исходного кода)
+macros/
+
+# Пользовательские настройки
+config.json
+
+# Файлы IDE
+.idea/
+.vscode/
